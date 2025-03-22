@@ -1,0 +1,53 @@
+[
+    {
+      "uuid": "550e8400-e29b-41d4-a716-446655440000",
+      "player": "Player1",
+      "points": 87
+    },
+    {
+      "uuid": "6a1e75e2-12f7-4b77-b789-9e6a7b0e62c5",
+      "player": "Player2",
+      "points": 42
+    },
+    {
+      "uuid": "3f1d4a34-8a9c-4cb5-83a1-776512d6a9ff",
+      "player": "Player3",
+      "points": 65
+    },
+    {
+      "uuid": "ecb6f3b7-1d58-4ae5-bb46-4e9631e89bb2",
+      "player": "Player4",
+      "points": 99
+    },
+    {
+      "uuid": "9b5e4c21-4347-4c96-8f89-2d5b34ffb07e",
+      "player": "Player5",
+      "points": 23
+    },
+    {
+      "uuid": "2f8a3d7c-6e3b-47e8-810c-580a5cf2d6a1",
+      "player": "Player6",
+      "points": 75
+    },
+    {
+      "uuid": "15c47c99-947d-4993-bb8c-372fdee2f2d7",
+      "player": "Player7",
+      "points": 56
+    },
+    {
+      "uuid": "d7854c8a-ff43-46c1-b50f-4a21c7d3f99a",
+      "player": "Player8",
+      "points": 90
+    },
+    {
+      "uuid": "e46c9b1e-2c5f-44b2-8e9b-715e10fd14b1",
+      "player": "Player9",
+      "points": 38
+    },
+    {
+      "uuid": "b7153f68-6aaf-41b5-8e41-7c8f00d4bb17",
+      "player": "Player10",
+      "points": 81
+    }
+  ]
+  
